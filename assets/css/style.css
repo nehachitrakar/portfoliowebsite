@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("/assets/img/my_img/prof-bg.png");
+  background: #040404 url("./assets/img/my_img/prof-bg.png");
   background-size: cover;
   left: 0;
   right: 0;
